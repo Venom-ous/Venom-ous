@@ -3,7 +3,7 @@ Venom-ous/Venom-ous is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Pawandeep singh</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🔭 I’m currently working on **Airbnb clone**
 
