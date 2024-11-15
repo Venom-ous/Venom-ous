@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Airbnb clone**
 
-- 🌱 I’m currently learning **Express.js,**
+- 🌱 I’m currently learning **Express.js, System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Venom-ous](https://github.com/Venom-ous)
 
-- 💬 Ask me about **C++, Javascript**
+- 💬 Ask me about **C++,Java, Selenium, MongoDb, SQL, Javascript**, 
 
 - 📫 How to reach me **sndhu.pawandeep@gmail.com**
 
